@@ -1,11 +1,3 @@
-zabbix-api
-==========
-
-A Java Zabbix's tools initiative.
-
-License
-=======
-
 Copyright 2014 Bemobi - http://www.bemobi.com.br/
 
 Licensed under the Apache License, Version 2.0 (the "License");
